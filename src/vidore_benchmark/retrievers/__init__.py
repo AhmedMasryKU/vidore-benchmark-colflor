@@ -34,3 +34,8 @@ try:
     from .vision_retriever import VisionRetriever
 except ImportError:
     pass
+
+try: 
+    from .colflor_retriever import ColFlorRetriever
+except ImportError:
+    pass   
