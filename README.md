@@ -16,5 +16,3 @@ This repository contains the code used for evaluating the ColFlor model describe
 
 To reproduce the results reported in the blogpost, you can simple run the following colab notebook on a free T4 gpu! 
 [[Colab Evaluation Notebook]](https://colab.research.google.com/drive/1fvLP5WLKssg9yEtkwVdG5yxMBGhrcjGZ?usp=sharing )
-
-The notebook mainly utilizes the evaluation codes from this github repo: [[Vidore Benchmark colflor]](https://github.com/AhmedMasryKU/vidore-benchmark-colflor)
